@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee268bb5-f9ea-4b1f-a26b-6e7f9d47a521" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/java/planet1.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/planet2.java" afterDir="false" />
+>>>>>>> planet2
       <change beforePath="$PROJECT_DIR$/src/test/java/SolarSystem/solarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/solarSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,10 +51,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "planet1",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/IronMan/Desktop/Willy/SolarSystemB19",
+=======
+    "git-widget-placeholder": "planet2",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/IronMan/Desktop/Alex/SolarSystemB19",
+>>>>>>> planet2
     "onboarding.tips.debug.path": "C:/Users/IronMan/IdeaProjects/solarSystem/src/main/java/org/syntax/Main.java"
   }
 }]]></component>
