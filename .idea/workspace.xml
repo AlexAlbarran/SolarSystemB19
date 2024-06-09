@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee268bb5-f9ea-4b1f-a26b-6e7f9d47a521" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/featureSun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/planet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolarSystem/solarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/solarSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;AlexAlbarran&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AlexAlbarran/SolarSystemB19.git",
-    "accountId": "3defbf3e-b2c7-4fd8-8b87-3952529c6da6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexAlbarran/SolarSystemB19.git&quot;,
+    &quot;accountId&quot;: &quot;3defbf3e-b2c7-4fd8-8b87-3952529c6da6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -47,10 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "featureSun",
+    "git-widget-placeholder": "planet2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/IronMan/Desktop/fabrico/SolarSystemB19",
+    "last_opened_file_path": "C:/Users/IronMan/Desktop/Alex/SolarSystemB19",
     "onboarding.tips.debug.path": "C:/Users/IronMan/IdeaProjects/solarSystem/src/main/java/org/syntax/Main.java"
   }
 }]]></component>
